@@ -1,11 +1,17 @@
-# Hi, Hello, Hai there! 👋
+### Hi, Hello I'm Ahmada Itmamunnafi' 👋
 
-I'm Ahmada Itmamunnafi'. Focused on web development. Love Create Something 🔥. Mountain Addict 🗻
+🌏 Malang, Indonesia
 
-Visit my Website [here](//ahmada-portfolio.netlify.app/) and find me on social media
+Web Developer based in Malang, Indonesia. Focused as a Backend Developer 💻, mountain enthusiast 🗻, and taekwondo addict🥋.
 
-- [Twitter](//twitter.com/ahmada_it/)
-- [Instagram](//instagram.com/ahmada_it/)
-- [LinkedIn](//www.linkedin.com/in/ahmada-it-k122/)
-- [My Portfolio](//ahmada-portfolio.netlify.app/)
-- [📧 Email](mailto:jamezmada@gmail.com)
+[![Website](https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=netlify&logoColor=black)](//ahmada-portfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:jamezmada@gmail.com)
+
+### My GitHub Stats
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmadaait&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadaait&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+**Thanks for coming to my little place on GitHub** 😁
