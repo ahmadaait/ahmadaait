@@ -1,6 +1,6 @@
 # Hi, Hello, Hai there! 👋
 
-I'm Ahmada Itmamunnafi'. Currently working in one of the central government in the Kepulauan Riau, Indonesia. Focused on web development. Love Create Something 🔥. Mountain Addict 🗻
+I'm Ahmada Itmamunnafi'. Focused on web development. Love Create Something 🔥. Mountain Addict 🗻
 
 Visit my Website [here](//ahmada-portfolio.netlify.app/) and find me on social media
 
