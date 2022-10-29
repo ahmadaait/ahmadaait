@@ -3,12 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmadaait" alt="ahmadaait" /> </p>
 
-### Personal Stuff
+# Personal Stuff
 
 - 👨‍💻 **Open for Freelance Project** build website / API
 - Feel free to contact me: [LinkedIn](https://www.linkedin.com/in/ahmada-it-k122) or email me at **jamezmada@gmail.com**
 
-<h3>Working Tech Stack 💻</h3>
+## Working Tech Stack 💻
+
 <p>
   <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -21,16 +22,21 @@
   <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### GitHub Stats
+# GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmadaait&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" 
+<!-- <p>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmadaait&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"
   />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadaait&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+</p> -->
 
-<h3>Where to find me 🤙</h3>
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadaait&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="ahmadaait" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadaait&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ahmadaait" /></p>
+</div>
+
+## Where to find me 🤙
 
 <p>
   <a href="https://www.github.com/ahmadaait" target="_blank">
@@ -44,6 +50,6 @@
   </a>
 </p>
 
-### Website
+## Website
 
 [![Website](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](//ahmada-portfolio.netlify.app)
