@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmada Itmamunnafi'</h1>
 <h3 align="center">🌏 Malang, Indonesia</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmadaait" alt="ahmadaait" /> </p>
+<p align="center"> 
+  <img src="https://wakatime.com/badge/user/6d84a9a5-a29e-40d2-a165-51b58fad52fa.svg" alt="ahmadaait"/>
+  <img src="https://komarev.com/ghpvc/?username=ahmadaait" alt="ahmadaait" /> 
+</p>
 
 # Personal Stuff
 
