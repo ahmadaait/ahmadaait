@@ -13,7 +13,7 @@
 
 ## Working Tech Stack 💻
 
-![skills](https://skillicons.dev/icons?i=html,css,js,php,ts,go,nodejs,laravel,express,nest,react,next,bootstrap,mysql,postgresql,sqlite,mongodb,redis,sequelize,prisma,docker,git,gitlab,nginx,aws,ubuntu,bash,arduino,figma,vscode&theme=light)
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/ahmadaait/my-personal-stack)
 
 # GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
