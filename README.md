@@ -13,7 +13,12 @@
 
 ## Working Tech Stack 💻
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/ahmadaait/my-personal-stack)
+<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+<p align="center">
+  <a href="https://stackshare.io/ahmadaait/my-personal-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge" alt="ahmadaait :: StackShare" />
+  </a>
+</p>
 
 # GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
