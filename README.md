@@ -10,12 +10,13 @@
 
 - 👨‍💻 **Open for Freelance & Outsourcing Project** build website / API
 - Feel free to contact me: [LinkedIn](https://www.linkedin.com/in/ahmada-it) or email me at **jamezmada@gmail.com**
+- Feel free to contact me: <a href="https://www.linkedin.com/in/ahmada-it" target="_blank">LinkedIn</a> or email me at <strong>jamezmada@gmail.com</strong>
 
 ## Working Tech Stack 💻
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
-  <a href="https://stackshare.io/ahmadaait/my-personal-stack">
+  <a href="https://stackshare.io/ahmadaait/my-personal-stack" target="_blank">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge" alt="ahmadaait :: StackShare" />
   </a>
 </p>
