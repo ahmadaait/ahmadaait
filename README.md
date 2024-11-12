@@ -9,7 +9,6 @@
 # Personal Stuff
 
 - 👨‍💻 **Open for Freelance & Outsourcing Project** build website / API
-- Feel free to contact me: [LinkedIn](https://www.linkedin.com/in/ahmada-it) or email me at **jamezmada@gmail.com**
 - Feel free to contact me: <a href="https://www.linkedin.com/in/ahmada-it" target="_blank">LinkedIn</a> or email me at <strong>jamezmada@gmail.com</strong>
 
 ## Working Tech Stack 💻
